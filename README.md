@@ -1,7 +1,7 @@
 pragma solidity ^0.8.0;
 
 may token nameis bep20
-name_;bvcpakcoin
+name_;
         _symbol =bvc
         _decimals = 18;
 // File: @openzeppelin/contracts/utils/bvc.sol
